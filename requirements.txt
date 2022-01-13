@@ -86,7 +86,7 @@ parsimonious==0.8.0
 parso==0.3.3
 pbr==5.1.2
 pickleshare==0.7.5
-Pillow==5.4.1
+Pillow==9.0.0
 plac==0.9.6
 pluggy==0.8.1
 preshed==2.0.1
